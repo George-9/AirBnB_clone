@@ -1,8 +1,8 @@
 header {
     background-color: white;
-    bckgroung-image: images/logo.png;
+    background-image: url("./images/logo.png");
     height: 70px;
-    bottom: 0;
     width: 100%;
+    border-bottom: 1px solid #CCCCCC;
     align-content: left;
 }
