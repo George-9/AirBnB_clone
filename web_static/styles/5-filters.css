@@ -1,0 +1,14 @@
+.locations {
+    height: 100%;
+    width: 25%;
+    border-right: 1px solid #DDDDDD;
+}
+
+.locations .title {
+    font-weight: 600;
+}
+
+.locations .subtitle {
+    font-weight: 400;
+    font-size: 4px;
+}
