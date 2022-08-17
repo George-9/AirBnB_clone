@@ -16,10 +16,9 @@
   border-radius: 4px;
   margin-right: 30px;
   float: right;
-  -ms-transform: translateY(-50%);
-  transform: translateY(50%);
 }
 
 #button :hover {
   opacity: 90%;
+  
 }
