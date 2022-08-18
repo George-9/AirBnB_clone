@@ -1,0 +1,7 @@
+#ul, .popover {
+    display: none;
+    background-color: #FAFAFA;
+    width: 100%;
+    border: 1px solid #DDDDDD;
+    list-style: none;
+}
